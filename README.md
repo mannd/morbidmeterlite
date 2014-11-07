@@ -1,9 +1,6 @@
 ## Description 
-Morbidmeterlite is just a thin wrapper around morbidmeterlib
-which is a shared library that contains all the MorbidMeter code.
-Morbidmeterlite is the lite version of MorbidMeter.
-See the README.md file in the [morbidmeterlib repository](https://github.com/mannd/morbidmeterlib)
-for complete details about MorbidMeter.
+!! NOTE: DEVELOPMENT CLOSED IN THIS REPOSITORY
+morbidmeterlite has been incorporated into the morbidmeter-android repository.  No further changes should be made to this repository.
 
 ## License and Copyright
 Copyright 2011-2014 [EP Studios, Inc.](http://www.epstudiossoftware.com)
